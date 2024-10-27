@@ -10,7 +10,7 @@ body {
 /* This for background of the page. */
 
 nav {
-    padding: 1rem;
+    padding: 2rem;
     background-color: rgb(74, 116, 253);
     float: top;
     height: fit-content;
@@ -27,13 +27,14 @@ nav {
 .menu {
     display: flex;
     list-style: none;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 /* This for background of navigator function. */
 
 .menu li {
-    margin: 0 9rem;
+    margin: 0;
     align-items: center;
+    justify-content: space-around;
 }
 /* This for background of navigator function. */
 
