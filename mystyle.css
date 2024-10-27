@@ -1,0 +1,168 @@
+* {
+    padding: 0;
+    box-sizing: boarder-box;
+}
+/* This for determine content for all parts. */
+
+body {
+    background-color: rgb(17, 76, 165);
+}
+/* This for background of the page. */
+
+nav {
+    padding: 1rem;
+    background-color: rgb(74, 116, 253);
+    float: top;
+    height: fit-content;
+}
+/* This for background of navigator function. */
+
+.nav-con {
+    padding: 2% 4%;
+    position: sticky;
+    top: 0;
+}
+/* This for background of navigator function. */
+
+.menu {
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+/* This for background of navigator function. */
+
+.menu li {
+    margin: 0 9rem;
+    align-items: center;
+}
+/* This for background of navigator function. */
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'Nerko One';
+    font-size: 30px;
+}
+/* This for background of navigator function. */
+
+h1 {
+    margin: 2rem;
+    font-size: 100px;
+    text-align: center;
+}
+/* This for adjust text. */
+
+h2 {
+    font-size: 120px;
+    font-family: 'RSU';
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px #000000;
+    margin: 0%;
+    padding-bottom: 25px;
+}
+/* This for adjust text. */
+
+h3 {
+    margin: 10px;
+    font-size: 60px;
+    text-align: center;
+}
+/* This for adjust text. */
+
+.procon {
+    padding: 2rem;
+    font-size: 36px;
+    color: white;
+    font-family: 'Nerko one';
+    box-shadow:  0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+/* This for adjust text and adding box. */
+
+.follow {
+    padding: 0;
+    font-size: 36px;
+    color: white;
+    font-family: 'Nerko one';
+    text-align: center;
+    background-color: #000000;
+}
+/* This for adjust text and adding background. */
+
+.headline {
+    font-size: 50px;
+    color: white;
+    font-family: 'Nerko one';
+    margin: 2px;
+}
+
+.dataluv {
+    font-size: 24px;
+    color: white;
+    font-family: 'Nerko one';
+    padding: 5px;
+    margin: 2rem;
+}
+
+dataluv.detail{
+    margin: 0;
+    padding: 0px;
+}
+
+.wantings {
+    font-size: 24px;
+    color: white;
+    font-family: 'Nerko one';
+    padding: 5px;
+    margin: 2rem;
+}
+
+.pic1 {
+    height: 650px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.mypic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 38%;
+    height: 1100px;
+}
+
+.sociali{
+    height: 3%;
+    width: 3%;
+}
+
+.dsci {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 450px;
+    padding: 0%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.dengin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 35%;
+    height: 450px;
+    padding: 0%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}
+
+.stor {
+    text-indent: 2cm;
+}
