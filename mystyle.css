@@ -73,7 +73,7 @@ h3 {
 
 .procon {
     padding: 2rem;
-    font-size: clamp(6px,6.5vw,36px);
+    font-size: clamp(6px,3.5vw,36px);
     color: white;
     font-family: 'Nerko one';
     box-shadow:  0 0 10px rgba(0, 0, 0, 0.1);
@@ -83,7 +83,7 @@ h3 {
 
 .follow {
     padding: 0;
-    font-size: clamp(6px,6.5vw,36px);
+    font-size: clamp(5px,3.5vw,36px);
     color: white;
     font-family: 'Nerko one';
     text-align: center;
@@ -92,14 +92,14 @@ h3 {
 /* This for adjust text and adding background. */
 
 .headline {
-    font-size: clamp(9px,6.5vw,50px);
+    font-size: clamp(9px,3.5vw,50px);
     color: white;
     font-family: 'Nerko one';
     margin: 2px;
 }
 
 .dataluv {
-    font-size: clamp(5px,6.5vw,24px);
+    font-size: clamp(5px,3.5vw,24px);
     color: white;
     font-family: 'Nerko one';
     padding: 5px;
@@ -112,7 +112,7 @@ dataluv.detail{
 }
 
 .wantings {
-    font-size: clamp(5px,6.5vw,24px);
+    font-size: clamp(5px,3.5vw,24px);
     color: white;
     font-family: 'Nerko one';
     padding: 5px;
