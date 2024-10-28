@@ -120,11 +120,11 @@ dataluv.detail{
 }
 
 .pic1 {
-    height: 650px;
+    height: 60%;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70%;
+    width: 50%;
     margin-bottom: 2rem;
     margin-top: 2rem;
 }
@@ -146,8 +146,8 @@ dataluv.detail{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 35%;
-    height: 450px;
+    width: 50%;
+    height: 60%;
     padding: 0%;
     margin-bottom: 2rem;
     margin-top: 2rem;
@@ -157,8 +157,8 @@ dataluv.detail{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 35%;
-    height: 450px;
+    width: 50%;
+    height: 60%;
     padding: 0%;
     margin-bottom: 2rem;
     margin-top: 2rem;
