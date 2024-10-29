@@ -42,7 +42,7 @@ nav {
     color: white;
     text-decoration: none;
     font-family: 'Nerko One';
-    font-size: 30px;
+    font-size: clamp(10px,3.5vw,50px);
 }
 /* This for background of navigator function. */
 
