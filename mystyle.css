@@ -71,7 +71,7 @@ h3 {
 }
 /* This for adjust text. */
 
-.procon {
+.profile {
     padding: 2%;
     font-size: clamp(6px,3.5vw,36px);
     color: white;
@@ -80,6 +80,20 @@ h3 {
 }
 /* This for adjust text and adding box. */
 
+.procon {
+    float: left;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+}
+
+.CS{
+    float: left;
+    width: 50%;
+    justify-content: center;
+    text-align: center;
+}
+
 .follow {
     padding: 0;
     font-size: clamp(5px,3.5vw,36px);
@@ -87,6 +101,7 @@ h3 {
     font-family: 'Nerko one';
     text-align: center;
     background-color: #000000;
+    clear: both;
 }
 /* This for adjust text and adding background. */
 
